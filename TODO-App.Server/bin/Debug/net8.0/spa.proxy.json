@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\.NET\\Projects\\TODO-App\\TODO-App.Server\\..\\todo-app.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

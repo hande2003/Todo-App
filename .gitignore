@@ -1,0 +1,18 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+appsettings.json
+
+*txt
+node_modules/
+.vs/ProjectEvaluation/
+.vs/TODO-App/DesignTimeBuild/
+.vs/TODO-App/FileContentIndex/
+.vs/TODO-App/v17/.futdcache.v2
+.vs/TODO-App/v17/.suo
+.vs/TODO-App/v17/.wsuo
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite

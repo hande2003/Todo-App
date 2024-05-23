@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "GCAIxAv3Fr+EKNR/dAgYbEAdTZOyxkgSAI3X5tl4org=",
+  "Source": "TODO-App.Server",
+  "BasePath": "_content/TODO-App.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\.NET\\Projects\\TODO-App\\todo-app.client\\todo-app.client.esproj",
+      "Version": 2,
+      "Source": "todo-app.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
