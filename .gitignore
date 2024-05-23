@@ -16,3 +16,6 @@ node_modules/
 .vs/TODO-App/v17/.wsuo
 .vs/VSWorkspaceState.json
 .vs/slnx.sqlite
+.vs/TODO-App
+
+TODO-App.sln
